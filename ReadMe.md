@@ -9,4 +9,7 @@ Zümrüt Ahdi'nin kaderi—ve belki de ulusların kaderi—dengede duruyor.
 # Genel Bilgiler
 ## Irklar
 - [Elfler](tr/Races/Cerilian_Elf.md)
+- [Yarı-Elfler](tr/Races/Half-Elf.md)
 - [İnsanlar](tr/Races/Human.md)
+- [Cüceler](tr/Races/Dwarf.md)
+- [Halflingler](tr/Races/Halfling.md)
