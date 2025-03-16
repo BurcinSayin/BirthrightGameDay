@@ -5,3 +5,8 @@ Coeranys ve Osoerde arasında savaş yaklaşıyor. Baroness Eluvie Cariele, halk
 Beş yıl önce, kılıcın son taşıyıcısı ve şimdi Hain olarak bilinen Sör Kalen Duornath, halkına ihanet etti ve Coeranys güçleri tarafından öldürülmeden önce korkunç eylemler gerçekleştirdi. Ancak, kılıç hiçbir zaman bulunamadı.
 
 Zümrüt Ahdi'nin kaderi—ve belki de ulusların kaderi—dengede duruyor.
+
+# Genel Bilgiler
+## Irklar
+- [Elfler](tr/Races/Cerilian_Elf.md)
+- [İnsanlar](tr/Races/Human.md)
