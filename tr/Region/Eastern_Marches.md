@@ -13,7 +13,7 @@ Coeranys, Cerilia boyunca özgürlüğün her şeyden çok değer verildiği bir
 - Başkent Ruorven, önemli bir ticaret yolu olan bir nehir boyunca uzanır
 
 **Halk Arasında Söylenenler:**
-"*Coeranys'te en yoksul çiftçi bile başı dik yürür. Barones'in en güçlü ordusu olmayabilir, ama en sadık tebaası vardır.*"
+"*Coeranys'te en yoksul çiftçi bile başı dik yürür. Barones'in güçlü bir ordusu olmayabilir, ama çok sadık tebaası vardır.*"
 
 ### Osoerde: Dük'ün Toprakları
 Bir zamanlar uyuyan bir taşra olarak görülen Osoerde, önceki yönetici aileden iktidarı ele geçiren Dük Jaison Raenech yönetiminde son yıllarda karanlık bir üne kavuştu.
@@ -25,7 +25,7 @@ Bir zamanlar uyuyan bir taşra olarak görülen Osoerde, önceki yönetici ailed
 - Osoerde'ye giriş çıkışlar giderek daha kısıtlı hale geldi
 
 **Halk Arasında Söylenenler:**
-"*Sınırın güneyine seyahat ediyorsan başını öne eğ ve düşüncelerini kendine sakla. Dük'ün adamları her zaman gözetliyor ve yol kenarındaki ağaçlar bu günlerde kasvetli meyveler taşıyor.*"
+"*Sınırın güneyine seyahat ediyorsan başını öne eğ ve düşüncelerini kendine sakla. Dük'ün adamları her zaman tetikte ve yol kenarındaki ağaçlar bu günlerde kasvetli meyveler taşıyor.*"
 
 ### Sielwode: Yasak Orman
 Kadim orman diyarı Sielwode, insan topraklarının doğu kenarı boyunca gizemli bir varlık olarak duruyor. Çok azı onun gölgelerine derinlemesine girip hikayesini anlatmak için geri dönebildi.
@@ -36,7 +36,7 @@ Kadim orman diyarı Sielwode, insan topraklarının doğu kenarı boyunca gizeml
 - İnsan toprakları ile Sielwode arasındaki sınır, kadim taşlarla açıkça işaretlenmiştir
 
 **Halk Arasında Söylenenler:**
-"*Elfler bizden çok önce buradaydı ve bizden çok sonra da burada olacak. Sınırlarını kendi tehlikende geç. Derler ki ağaçların kendisi davetsiz misafirleri şaşırtmak için yer değiştirir ve tuhaf ışıklar gezginleri yoldan çıkarır.*"
+"*Elfler bizden çok önce buradaydı ve bizden çok sonra da burada olacak. Canına susamadıysan sınırlarını geçme. Derler ki ağaçların kendisi davetsiz misafirleri şaşırtmak için yer değiştirir ve tuhaf ışıklar gezginleri yoldan çıkarır.*"
 
 ## Doğu Sınırlarında Yaşam
 
@@ -59,7 +59,7 @@ Yaşamın ritmi mevsimleri takip eder, çoğu insan çiftçilik, hayvancılık v
 
 **İş ve Ticaret:**
 - Sığır ve at ticareti yerel ekonominin belkemiğini oluşturur
-- Bataklıklardan toplanan turba önemli bir yakıt kaynağı olarak hizmet eder
-- Sınır hanları bilgi alışverişi ve tarafsız buluşma yerleri olarak işlev görür
+- Bataklıklardan toplanan turba ( bir çeşit kömür ) önemli bir yakıt kaynağı olarak hizmet eder
+- Sınır bölegelerindeki hanlar bilgi alışverişi ve tarafsız buluşma yerleri olarak işlev görür
 - Pazar günleri izole çiftliklerden insanları kasabalara çeker
 

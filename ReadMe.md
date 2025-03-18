@@ -7,6 +7,8 @@ Beş yıl önce, kılıcın son taşıyıcısı ve şimdi Hain olarak bilinen S�
 Zümrüt Ahdi'nin kaderi—ve belki de ulusların kaderi—dengede duruyor.
 
 # Genel Bilgiler
+- [Her gezginin bilmesi gerekenler](tr/Region/Eastern_Marches.md)
+
 ## Irklar
 - [Elfler](tr/Races/Cerilian_Elf.md)
 - [Yarı-Elfler](tr/Races/Half-Elf.md)
