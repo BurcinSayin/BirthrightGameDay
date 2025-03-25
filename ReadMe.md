@@ -8,6 +8,7 @@ Zümrüt Ahdi'nin kaderi—ve belki de ulusların kaderi—dengede duruyor.
 
 # Genel Bilgiler
 - [Her gezginin bilmesi gerekenler](tr/Region/Eastern_Marches.md)
+- [Tanrılar](tr/Gods/Info.md)
 
 ## Irklar
 - [Elfler](tr/Races/Cerilian_Elf.md)

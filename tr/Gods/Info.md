@@ -8,7 +8,7 @@ Cerilia boyunca, tanrılar günlük yaşamı tapınakları, rahipleri ve etkiler
 
 ### Haelyn
 **Soylu Savaş Lordu, Kanun Koyucu, Anuire'nin Koruyucusu**  
-*Sembol: Kılıç ve güneş patlaması*
+*Sembol: Kılıç ve parlayan güneş*
 
 Haelyn, tanrıların hükümdarı ve Anuire'nin koruyucusu olarak yaygın şekilde tanınır. Adaleti, cesareti, şövalyeliği ve onurlu savaşı temsil eder. Tapınakları Anuire topraklarında siyasi gücün merkezleridir ve rahipleri genellikle kraliyet danışmanı olarak görev yapar. Birçok şövalye ve savaşçı onun adına yemin eder ve sembolü krallık boyunca sayısız kalkan ve bayrakta görülebilir.
 
@@ -22,7 +22,7 @@ Avani, güneş tanrıçası ve bilgelik ile mantığın koruyucusu olarak saygı
 **Ormanların Yaşlı Babası, Rjurik'in Koruyucusu**  
 *Sembol: Meşe ağacı*
 
-Erik vahşi doğayı gözetir ve Cerilia'nın ormanları ile hayvanlarının koruyucusu olarak hizmet eder. Druidleri Rjurik topraklarının kuzey ormanlarında yaygın görülür; kutsal koruları korur ve insanların topraktan dayanabileceğinden fazlasını almamasını sağlarlar. Avcılar ve ormancılar onun alanından hasat yapmadan önce Erik'e küçük sunular bırakırlar.
+Erik vahşi doğayı gözetir ve Cerilia'nın ormanları ile hayvanlarının koruyucusu olarak hizmet eder. Druidleri Rjurik topraklarının kuzey ormanlarında yaygın görülür; kutsal koruları korur ve insanların topraktan dayanabileceğinden fazlasını almamasını sağlarlar. Avcılar ve ormancılar onun gözettiği yerlerden hasat yapmadan önce Erik'e küçük sunular bırakırlar.
 
 ## Orta Seviye Tanrılar
 
@@ -36,7 +36,7 @@ Sera, tüccarlar, kumarbazlar ve iyi şans arayanlar tarafından çağrılır. L
 **Deniz Tanrıçası, Yas Leydisi**  
 *Sembol: Dalga ve üç çatallı mızrak*
 
-Nesirie denizcileri ve denizden geçimini sağlayanları korur. Kıyı toplulukları seyahatlerden önce sunuların yapıldığı küçük türbeler bulundurur. Aynı zamanda yasın tanrıçasıdır ve büyük kayıplar yaşayanlar genellikle onun tapınaklarında huzur bulur. Balıkçılar, yunusların ve bazı deniz kuşlarının onun habercileri olduğunu iddia eder.
+Nesirie denizcileri ve denizden geçimini sağlayanları korur. Kıyı toplulukları seyahatlerden önce sunuların yapıldığı küçük Nesirie türbeleri bulundurur. Aynı zamanda yasın tanrıçasıdır ve büyük kayıplar yaşayanlar genellikle onun tapınaklarında huzur bulur. Balıkçılar, yunusların ve bazı deniz kuşlarının onun habercileri olduğunu iddia eder.
 
 ### Belinik
 **Terör Prensi, Çatışma Lordu**  
@@ -56,7 +56,7 @@ Laerme'nin etkisi güzellik yaratan veya aşkı deneyimleyen herkese dokunur. Sa
 **Ay Tanrısı, Gümüş Prens**  
 *Sembol: Hilal ay*
 
-Ruornil büyü ve gizemli bilginin koruyucusudur. Büyücülük yapan herkes resmi olarak ona tapmasa da etkisini kabul eder. Tapınakları genellikle uzak ormanlarda gizlidir, ancak Anuire'de bazıları siyasi etki kazanmıştır. Sıradan insanlar bazen huzurlu rüyalar görmek için dolunay sırasında pencere kenarlarına küçük sunular bırakır.
+Ruornil büyü ve gizemli bilginin koruyucusudur. Büyücülük yapan herkes resmi olarak ona tapmasa da etkisini kabul eder. Tapınakları genellikle uzak ormanlarda gizlidir, ancak Anuire'de bazıları siyasi etki kazanmıştır. Sıradan insanlar bazen huzurlu rüyalar görmek için dolunay sırasında pencere kenarlarına onun adına küçük sunular bırakır.
 
 ### Cuiraécen
 **Fırtına Lordu, Savaş Tanrısı**  
@@ -74,7 +74,7 @@ Az sayıda dürüst insan açıkça Eloéle'ye tapar, ancak çoğu onun hakkınd
 **Buz Leydisi, Kış Cadısı**  
 *Sembol: Beyaz el*
 
-Kriesha çoğu toprakta, özellikle gücünün en güçlü olduğu sert kışlarda korkulur. Rjurik ve Brechtler, onun öfkesini yatıştırmak için ilk karda sunular bırakmayı bilirler. Vosgaard'da, rahibeleri büyük saygı görür ve güçlerini savaşçıların gücünü test etmek için kullanırlar. Çoğu sıradan insan, onun soğuk güzelliğine kapılıp kar fırtınalarına karışanların hikayelerini anlatır.
+Kriesha çoğu toprakta, özellikle gücünün en güçlü olduğu sert kışlarda korkulur. Rjurik ve Brecht kaviminden olanlar, onun öfkesini yatıştırmak için ilk karda sunular bırakmayı bilirler. Vosgaard'da, rahibeleri büyük saygı görür ve güçlerini savaşçıların gücünü test etmek için kullanırlar. Çoğu sıradan insan, onun soğuk güzelliğine kapılıp kar fırtınalarına karışanların hikayelerini anlatır.
 
 ## Yaygın Dini Uygulamalar
 
