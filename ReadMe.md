@@ -2,7 +2,7 @@
 
 War is approaching between Coeranys and Osoerde. Baroness Eluvie Cariele seeks the legendary sword, the Emerald Covenant, traditionally wielded by the House of Duornath, to unite her people against the armies of Duke Jaison Raenech.
 
-Five years ago, the last bearer of the sword, Sir Kalen Duornath, now known as the Traitor, betrayed his people and committed terrible acts before being killed by Coeranys forces. However, the sword was never found.
+Sir Kalen Duornath, the last bearer of the sword now known as the Traitor, betrayed his people five years ago and committed terrible acts before being killed by Coeranys forces three years ago. However, the sword was never found.
 
 The fate of the Emerald Covenant—and perhaps the fate of nations—hangs in the balance.
 
